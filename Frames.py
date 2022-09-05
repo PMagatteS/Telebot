@@ -8,7 +8,7 @@ from PIL import Image
 from os import getcwd
 
 VERSION = '1.0'
-ABOUT = f'Developer: P. Magatte Sady\nVersion: {VERSION}\nModules: Python requests, Python ttkthemes, Python pystray\nRepository: https//www.github.com'
+ABOUT = f'Developer: P. Magatte Sady\nVersion: {VERSION}\nModules: Python requests, Python ttkthemes, Python pystray\nRepository: https://github.com/PMagatteS/Telebot'
 IMG_DICT = {'function': 'send photo', 'media label': 'Enter image id(no limit) or url(limit 5mb)', 'type' : 'photo'}
 VDO_DICT = {'function': 'send video', 'media label': 'Enter video id(no limit) or url(limit 20mb)', 'type' : 'video'}
 DOC_DICT = {'function': 'send file', 'media label': 'Enter document id(no limit) or url(limit 20mb)', 'type' : 'document'}
